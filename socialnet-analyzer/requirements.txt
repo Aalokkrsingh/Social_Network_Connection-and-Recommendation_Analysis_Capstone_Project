@@ -1,0 +1,5 @@
+matplotlib
+pytest
+streamlit
+networkx
+pandas
